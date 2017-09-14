@@ -3,7 +3,6 @@ Getting Started Namaa
 thx
 # # # # Text Field حقل نصي!
 
-
 ![حقل نصي في حالة التعديل](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D9%86%D8%B5%D9%8A.png)
 
 **1- عنوان الحقل:** <br/>
@@ -77,4 +76,31 @@ icon infoاختيار ظهور
 **9- common_clear Value At Completion:** <br/>
 يتم مسح الداتا عند ارجاع الحقل لتعديله بالقرارات.
 
-**10- اضافة اجراء:** 
+**10- اضافة اجراء:** <br/>
+
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%A7%D8%B6%D8%A7%D9%81%D8%A9%20%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1.png)
+يتم ادخال اجراء على الحقل وربطه بنموذج اخر
+
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%A7%D8%B6%D8%A7%D9%81%D8%A9%20%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA.png)
+بعد اضافة اﻻجراء يتم اضافة متغير عليه (نموذج وحقل الذي يتم الربط بيه)
+
+**11-شروط الظهور:** <br/>
+ يتم اظهار الحقل بناءا على قيمة حقل اخر
+
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%B4%D8%B1%D9%88%D8%B7%20%D8%A7%D9%84%D8%B8%D9%87%D9%88%D8%B1.png)
+<br/>
+**12-خصائص اﻻجراء:** 
+
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D8%A7%EF%BB%BB%D8%AC%D8%B1%D8%A7%D8%A1.png)
+
+
+**12.1- الحقول المراد حفظها :** حقول يتم حفظها بعد تنفيذ اﻻجراء.
+
+**12.2-الحقول المراد تحديثها:** اختيار حقول يتم تحديث البيانات التي تحتويها.
+
+**12.3- وقت تنفيذ اﻻجراء:** اختيار الوقت الذي يتم فيه تنفيذ اﻻجراء سواء بعد ادخال البيانات او عند الحفظ.
+
+**12.4- مستوى تنفيذ الإجراء:** 
+
+**12.5- work Flow_Field Executor Timing:**
+
