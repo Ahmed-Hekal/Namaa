@@ -39,14 +39,14 @@ icon infoاختيار ظهور
 ***
 
 # # # # خصائص حقل نصي متعدد
-![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D8%AD%D9%82%D9%84%20%D9%86%D8%B5%D9%8A.png)
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D9%86%D8%B5%D9%8A%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF.png)
 
 
 **1- مرتبط بحقل :** <br/>
 يعرض داتا من حقل آخر في نموذج آخر
 
-
-
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF.png)
+<br/>
 تظهر هذه اﻻختيارات ...يتم اختيار النموذج الذي به الحقل ثم اختيار الحقل<br/><br/>
 
 **2- عدد اﻻعمدة:**<br/>
@@ -67,10 +67,10 @@ icon infoاختيار ظهور
 **7- حقل لا يمكن تكرار قيمته :**<br/>
   يتم ادراجه مرة واحدة في النموذج.
 
-**8- work Flow _Bind Name:**<br/>
+**8- اسم الرابط:**<br/>
  اﻻسم الرابط بين الحقل والكائن المرتبط بيه.
 
-**9- common_clear Value At Completion:** <br/>
+**9- افراغ البيانات عند الاستكمال:** <br/>
 يتم مسح الداتا عند ارجاع الحقل لتعديله بالقرارات.
 
 **10- اضافة اجراء:** <br/>
@@ -84,11 +84,11 @@ icon infoاختيار ظهور
 **11-شروط الظهور:** <br/>
  يتم اظهار الحقل بناءا على قيمة حقل اخر
 
-![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%B4%D8%B1%D9%88%D8%B7%20%D8%A7%D9%84%D8%B8%D9%87%D9%88%D8%B1.png)
+![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF1.png)
 <br/>
 **12-خصائص اﻻجراء:** 
 
-![](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D8%A7%EF%BB%BB%D8%AC%D8%B1%D8%A7%D8%A1.png)
+![](https://github.com/nahla-hussam/Namaa/blob/master/images/%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%20%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF.png)
 
 
 **12.1- الحقول المراد حفظها :** حقول يتم حفظها بعد تنفيذ اﻻجراء.
@@ -99,6 +99,6 @@ icon infoاختيار ظهور
 
 **12.4- مستوى تنفيذ الإجراء:** 
 
-**12.5- work Flow_Field Executor Timing:**
+**12.5- وقت تنفيذ الاجراء:**
 
 
