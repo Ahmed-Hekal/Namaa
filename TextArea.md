@@ -1,7 +1,7 @@
-# # # # Text ِArea Field حقل نصي متعدد!
+# # # # Text Area Field حقل نصي متعدد!
 
 
-![حقل نصي متعدد في حالة التعديل](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D9%86%D8%B5%D9%8A.png)
+![حقل نصي متعدد في حالة التعديل](https://raw.githubusercontent.com/nahla-hussam/Namaa/master/images/%D9%86%D8%B5%D9%8A%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%AF.png)
 
 **1- عنوان الحقل:** <br/>
 يمكنك اضافة عنوان للحقل label tag ويكتب ب
